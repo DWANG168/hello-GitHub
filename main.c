@@ -200,6 +200,11 @@ static void Error_Handler(void)
 {
   while (1)
   {
+   /*edited by user*/
+   
+   //user's code here
+   
+   /*edited by user*/
   }
 }
 
